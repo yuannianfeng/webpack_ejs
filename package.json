@@ -14,11 +14,15 @@
     "url": "git+https://github.com/yuannianfeng/webpack_ejs.git"
   },
   "author": {
-    "name":"yuannianfeng",
-    "email":"847078795@qq.com"
+    "name": "yuannianfeng",
+    "email": "847078795@qq.com"
   },
   "license": "ISC",
-  "keywords":["webpack","ejs","morepage"],
+  "keywords": [
+    "webpack",
+    "ejs",
+    "morepage"
+  ],
   "dependencies": {
     "autoprefixer": "^7.2.5",
     "babel-core": "^6.26.0",
